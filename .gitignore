@@ -3,3 +3,7 @@
 ################################################################################
 
 /Thomerson.Migration/.vs
+/Thomerson.Migration/bin/Debug/netcoreapp3.1
+/Thomerson.Migration/obj
+/Thomerson.Migration.Gatlin/bin/Debug/netstandard2.0
+/Thomerson.Migration.Gatlin/obj
